@@ -1,4 +1,4 @@
-Decentralized Image Sharing with IPFS & Blockchain  
+## Decentralized Image Sharing with IPFS & Blockchain  
 
 This project is a decentralized image-sharing system that leverages IPFS for storage and Ethereum smart contracts for ownership tracking. It allows users to upload image hashes to IPFS, store them on the blockchain, and retrieve ownership details.  
 
